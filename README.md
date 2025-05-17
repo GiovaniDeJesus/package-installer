@@ -24,11 +24,11 @@ sudo ./install-packages.sh nginx nano
 
 ⚙️ Requirements
 
-    Root access (sudo or root user).
+  Root access (sudo or root user).
 
-    Bash shell.
+  Bash shell.
 
-    Supported on Debian- or RHEL-based distributions.
+  Supported on Debian- or RHEL-based distributions.
 
 📄 License
 
