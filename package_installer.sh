@@ -40,7 +40,7 @@ do
 		echo "Starting and enabling $PACKAGE"
 		systemctl enable $PACKAGE && systemctl start $PACKAGE
 	else
-		echo "$PACKAGE does not have unit files"
+		echo "$PACKAGE does not have a systemd service unit. Skipping."
 	fi
 done
 
